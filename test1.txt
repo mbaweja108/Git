@@ -1,10 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is 5427-3E02
-
- Directory of D:\AWS\Git
-
-10/04/2018  12:45 AM    <DIR>          .
-10/04/2018  12:45 AM    <DIR>          ..
-10/04/2018  12:46 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  118,331,179,008 bytes free
+sdkslkdfkl 
